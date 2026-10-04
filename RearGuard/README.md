@@ -2,11 +2,7 @@
 
 A real-time obstacle detection and collision warning system that uses **YOLOv8** for object detection and distance estimation, with a **React Native** mobile app as the frontend and a **Flask** backend for processing.
 
-## Collaborators
 
-- **Ayesha Noor**
-- **Maham Gul**
-- **Mohammad Hamza Iqbal**
 
 ## Architecture
 
