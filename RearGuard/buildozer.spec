@@ -1,0 +1,19 @@
+[app]
+title = Rear Collision Avoidance
+package.name = collisionavoidance
+package.domain = org.cvproject
+source.dir = .
+source.include_exts = py,png,jpg,kv,atlas
+version = 1.0.0
+requirements = python3,kivy,opencv,numpy,plyer
+orientation = portrait
+fullscreen = 1
+android.permissions = CAMERA
+android.api = 33
+android.minapi = 21
+android.ndk = 25b
+android.accept_sdk_license = True
+android.archs = arm64-v8a
+p4a.branch = master
+log_level = 2
+warn_on_root = 1
